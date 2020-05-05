@@ -1,14 +1,14 @@
-<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
+/.idea/caches/build_file_checksums.ser
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-=======
+
 # Built application files
 *.apk
 *.ap_
@@ -49,4 +49,3 @@ captures/
 
 # Keystore files
 *.jks
->>>>>>> 4c4410a0085e49da1504bb26ceeda9b278b96484
